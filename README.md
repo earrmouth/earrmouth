@@ -1,3 +1,4 @@
+![Metrics](https://github.com/earrmouth/earrmouth/blob/master/github-metrics.svg)
 ### Hi there 👋
 
 <!--
