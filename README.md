@@ -1,4 +1,4 @@
-![Metrics](https://github.com/earrmouth/earrmouth/blob/main/github-metrics.svg)
+![Metrics](https://github.com/earrmouth/earrmouth/blob/master/github-metrics.svg)
 
 <!--
 **earrmouth/earrmouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
