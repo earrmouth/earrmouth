@@ -32,8 +32,10 @@ Here are some ideas to get you started:
     </a>
 </p>
 
+<!--
 <p align="center">
   <a href="https://github.com/earrmouth">
     <img alt="GitHub Status" src="https://github.com/earrmouth/earrmouth/blob/master/github-metrics.svg" />
     </a>
 </p>
+-->
